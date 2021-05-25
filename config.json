@@ -1,0 +1,10 @@
+{
+    "debug": 7,
+    "mqtt_broker": "10.1.1.28",
+    "client_id": "conn-rate-mon",
+    "syslog_port": 6514,
+    "mqtt_port": 1883,
+    "notify_topic": "alert/A10Thunder",
+    "username": "test",
+    "password": "test"
+}
